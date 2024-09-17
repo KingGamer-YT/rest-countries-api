@@ -4,4 +4,4 @@ This is a solution to the [REST Countries API with color theme switcher](https:/
 
 ### Links
 
-- Live URL: [REST Countries API with color theme switcher](https://heuristic-johnson-cf1cc8.netlify.app/)
+-
